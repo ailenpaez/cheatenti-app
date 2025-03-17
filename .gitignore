@@ -1,5 +1,5 @@
 # Credenciales y tokens de autenticación
-credentials.json
+credentials.json 
 
 # Archivos generados por Python
 __pycache__/
@@ -10,4 +10,4 @@ venv/
 ENV/
 env/
 
-# Otros archivos que podrías querer ignorarcredentials.json
+# Otros archivos que podrías querer ignorar
